@@ -21,7 +21,7 @@ For this project, I had to build a message generator program using HTML, CSS, an
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://nbuylding.github.io/message-generator/)
 
 ## My process
 
@@ -42,4 +42,4 @@ I learned how to link a function to an HTML element.
 
 ## Author
 
-- GitHub - [Natasha Buylding](https://www.your-site.com)
+- my GitHub - [Natasha Buylding](https://github.com/nbuylding)
